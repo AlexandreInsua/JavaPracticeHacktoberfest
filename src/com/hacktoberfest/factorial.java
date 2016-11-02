@@ -1,3 +1,5 @@
+package com.hacktoberfest;
+
 import java.util.Scanner;
 
 public class factorial {

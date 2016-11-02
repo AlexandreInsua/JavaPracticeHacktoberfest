@@ -1,4 +1,4 @@
-package charcounter;
+package com.hacktoberfest.charcounter;
 
 import java.io.BufferedReader;
 import java.io.File;

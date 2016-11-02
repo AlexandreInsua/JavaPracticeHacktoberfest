@@ -1,4 +1,4 @@
-package examen01A;
+package com.hacktoberfest;
 
 import java.awt.EventQueue;
 
